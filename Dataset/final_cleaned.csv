@@ -1,0 +1,1262 @@
+name,type,price,material,number_of_seats,colour,washable_cover
+JÄTTEBO,chaise longue,33995,undetermined,1,beige,0
+KIVIK,chaise longue,19895,undetermined,1,beige,0
+VIMLE,chaise longue,30800,undetermined,1,black,0
+JÄTTEBO,chaise longue,33995,undetermined,1,beige,0
+LANDSKRONA,chaise longue,21995,undetermined,1,red,0
+SÖDERHAMN,chaise longue,23395,undetermined,1,grey,0
+GRÖNLID,chaise longue,37800,undetermined,1,grey,0
+JÄTTEBO,chaise longue,28795,undetermined,1,yellow,0
+JÄTTEBO,chaise longue,28795,undetermined,1,yellow,0
+KIVIK,chaise longue,32995,undetermined,1,black,0
+JÄTTEBO,chaise longue,62790,undetermined,1,beige,0
+VIMLE,chaise longue,30200,undetermined,1,blue,0
+VIMLE,chaise longue,29995,undetermined,1,black,0
+LANDSKRONA,chaise longue,28495,undetermined,1,black,0
+GRÖNLID,chaise longue,24100,undetermined,1,green,0
+VIMLE,chaise longue,44995,undetermined,1,black,0
+JÄTTEBO,chaise longue,34395,undetermined,1,yellow,0
+KIVIK,chaise longue,19895,undetermined,1,black,0
+KIVIK,chaise longue,18295,undetermined,1,grey,0
+KIVIK,chaise longue,17995,undetermined,1,beige,0
+VIMLE,chaise longue,33300,undetermined,1,red,0
+VIMLE,chaise longue,30800,undetermined,1,blue,0
+JÄTTEBO,chaise longue,34395,undetermined,1,yellow,0
+LANDSKRONA,chaise longue,21995,undetermined,1,red,0
+SÖDERHAMN,chaise longue,25295,undetermined,1,natural colour,0
+SÖDERHAMN,chaise longue,25295,undetermined,1,grey,0
+SÖDERHAMN,chaise longue,22895,undetermined,1,red,0
+GRÖNLID,chaise longue,35500,undetermined,1,grey,0
+GRÖNLID,chaise longue,34700,undetermined,1,red,0
+JÄTTEBO,chaise longue,28795,undetermined,1,beige,0
+JÄTTEBO,chaise longue,28795,undetermined,1,beige,0
+JÄTTEBO,chaise longue,63190,undetermined,1,yellow,0
+VIMLE,chaise longue,31500,undetermined,1,grey,0
+VIMLE,chaise longue,29800,undetermined,1,black,0
+LANDSKRONA,chaise longue,28495,undetermined,1,brown,0
+VIMLE,chaise longue,31500,undetermined,1,beige,0
+VIMLE,chaise longue,32100,undetermined,1,grey,0
+LANDSKRONA,chaise longue,21995,undetermined,1,red,0
+LANDSKRONA,chaise longue,21995,undetermined,1,red,0
+SÖDERHAMN,chaise longue,25295,undetermined,1,beige,0
+SÖDERHAMN,chaise longue,23995,undetermined,1,brown,0
+GRÖNLID,chaise longue,35500,undetermined,1,green,0
+GRÖNLID,chaise longue,34400,undetermined,1,white,0
+GRÖNLID,chaise longue,37800,undetermined,1,natural colour,0
+JÄTTEBO,chaise longue,28195,undetermined,1,grey,0
+JÄTTEBO,chaise longue,61590,undetermined,1,grey,0
+VIMLE,chaise longue,32300,undetermined,1,red,0
+VIMLE,chaise longue,32300,undetermined,1,red,0
+VIMLE,chaise longue,31500,undetermined,1,beige,0
+LANDSKRONA,chaise longue,28495,undetermined,1,black,0
+LANDSKRONA,chaise longue,28495,undetermined,1,brown,0
+JÄTTEBO,chaise longue,33395,undetermined,1,grey,0
+JÄTTEBO,chaise longue,33395,undetermined,1,grey,0
+JÄTTEBO,chaise longue,28195,undetermined,1,grey,0
+GRÖNLID,chaise longue,23400,undetermined,1,white,0
+GRÖNLID,chaise longue,24100,undetermined,1,red,0
+GRÖNLID,chaise longue,24100,undetermined,1,grey,0
+GRÖNLID,chaise longue,24800,undetermined,1,grey,0
+GRÖNLID,chaise longue,24800,undetermined,1,natural colour,0
+JÃ„TTEBO,modular,161770,soft,7,beige,0
+SÃ–DERHAMN,modular,75285,extra soft,6,grey,0
+KIVIK,modular,29995,medium firm,2,grey,1
+JÃ„TTEBO,modular,86685,soft,3,yellow,0
+JÃ„TTEBO,modular,33995,undetermined,2,beige,0
+GRÃ–NLID,modular,80785,extra soft,5,green,1
+SÃ–DERHAMN,modular,24395,undetermined,3,grey,0
+VIMLE,modular,33295,soft,3,beige,1
+JÃ„TTEBO,modular,87985,soft,4,beige,0
+KIVIK,modular,48290,medium firm,3,grey,1
+KIVIK,modular,20995,medium firm,2,black,0
+KIVIK,modular,32495,undetermined,2,grey,0
+VIMLE,modular,13495,undetermined,1,grey,0
+GRÃ–NLID,modular,21995,undetermined,2,white,0
+JÃ„TTEBO,modular,23495,undetermined,1,yellow,0
+JÃ„TTEBO,modular,28795,undetermined,2,yellow,0
+GRÃ–NLID,modular,78685,extra soft,4,grey,1
+KIVIK,modular,66690,medium firm,4,black,1
+GRÃ–NLID,modular,37695,extra soft,2,natural colour,1
+SÃ–DERHAMN,modular,69885,extra soft,4,grey,1
+SÃ–DERHAMN,modular,37390,extra soft,3,grey,0
+JÃ„TTEBO,modular,51790,soft,2,beige,0
+VIMLE,modular,24695,undetermined,3,beige,0
+JÃ„TTEBO,modular,55890,soft,2,grey,0
+KIVIK,modular,80785,medium firm,5,grey,1
+VIMLE,modular,34295,soft,3,blue,1
+KIVIK,modular,30995,medium firm,3,beige,1
+SÃ–DERHAMN,modular,44990,extra soft,2,natural colour,0
+SÃ–DERHAMN,modular,54890,extra soft,4,natural colour,0
+KIVIK,modular,94985,medium firm,6,grey,1
+JÃ„TTEBO,modular,59890,soft,2,yellow,0
+KIVIK,modular,92985,medium firm,7,beige,1
+GRÃ–NLID,modular,19295,undetermined,2,green,0
+SÃ–DERHAMN,modular,23395,undetermined,1,grey,0
+SÃ–DERHAMN,modular,30395,extra soft,3,grey,0
+JÃ„TTEBO,modular,33995,undetermined,2,beige,0
+JÃ„TTEBO,modular,86185,soft,4,beige,0
+JÃ„TTEBO,modular,62790,undetermined,2,beige,0
+GRÃ–NLID,modular,35885,undetermined,2,red,0
+VIMLE,modular,22900,undetermined,2,red,0
+GRÃ–NLID,modular,26095,undetermined,3,green,0
+GRÃ–NLID,modular,24100,undetermined,2,grey,0
+SÃ–DERHAMN,modular,21195,undetermined,2,grey,0
+SÃ–DERHAMN,modular,54285,extra soft,3,grey,0
+SÃ–DERHAMN,modular,64785,extra soft,4,grey,0
+JÃ„TTEBO,modular,18995,undetermined,1,grey,0
+JÃ„TTEBO,modular,55390,soft,3,grey,0
+GRÃ–NLID,modular,13595,undetermined,1,grey,0
+JÃ„TTEBO,modular,92285,soft,3,yellow,0
+VIMLE,modular,18095,undetermined,2,blue,0
+SÃ–DERHAMN,modular,16895,undetermined,1,grey,0
+JÃ„TTEBO,modular,77285,soft,2,beige,0
+JÃ„TTEBO,modular,28795,undetermined,2,yellow,0
+VIMLE,modular,25995,undetermined,2,black,0
+VIMLE,modular,54195,soft,4,blue,1
+VIMLE,modular,31995,undetermined,3,black,0
+KIVIK,modular,54390,medium firm,4,beige,1
+VIMLE,modular,19495,undetermined,1,black,0
+JÃ„TTEBO,modular,70485,soft,4,beige,0
+Ã„PPLARYD,modular,21995,undetermined,2,grey,0
+VIMLE,modular,27495,undetermined,2,black,0
+KIVIK,modular,79985,medium firm,6,beige,1
+JÃ„TTEBO,modular,97080,soft,4,beige,0
+JÃ„TTEBO,modular,124575,soft,6,grey,0
+VIMLE,modular,50985,undetermined,2,black,0
+VIMLE,modular,27995,soft,2,blue,1
+GRÃ–NLID,modular,102785,extra soft,5,green,1
+KIVIK,modular,44995,medium firm,2,black,0
+KIVIK,modular,48995,medium firm,3,black,0
+VIMLE,modular,76990,soft,4,black,0
+VIMLE,modular,21195,undetermined,2,red,0
+VIMLE,modular,49795,soft,3,black,1
+VIMLE,modular,91885,soft,5,beige,1
+VIMLE,modular,150470,soft,6,black,0
+VIMLE,modular,68985,soft,4,grey,1
+VIMLE,modular,76585,soft,5,red,1
+KIVIK,modular,71690,medium firm,5,beige,1
+VIMLE,modular,104780,soft,4,black,0
+VIMLE,modular,55495,soft,3,red,1
+VIMLE,modular,125980,soft,5,black,0
+VIMLE,modular,28595,soft,2,black,1
+KIVIK,modular,81990,medium firm,4,black,0
+VIMLE,modular,47985,undetermined,2,black,0
+VIMLE,modular,100485,soft,5,black,0
+JÃ„TTEBO,modular,48390,soft,2,grey,0
+VIMLE,modular,95985,soft,4,black,0
+VIMLE,modular,96980,soft,4,black,0
+KIVIK,modular,77990,medium firm,3,black,0
+VIMLE,modular,88980,soft,3,black,0
+SÃ–DERHAMN,modular,81185,extra soft,6,grey,1
+SÃ–DERHAMN,modular,81885,extra soft,6,beige,0
+KIVIK,modular,29495,medium firm,2,black,1
+JÃ„TTEBO,modular,86285,soft,3,beige,0
+GRÃ–NLID,modular,80785,extra soft,5,grey,1
+SÃ–DERHAMN,modular,26295,undetermined,3,natural colour,0
+SÃ–DERHAMN,modular,26295,undetermined,3,grey,0
+SÃ–DERHAMN,modular,26295,undetermined,3,beige,0
+VIMLE,modular,31995,soft,3,blue,1
+JÃ„TTEBO,modular,88985,soft,4,yellow,0
+KIVIK,modular,49390,medium firm,3,black,1
+KIVIK,modular,37195,undetermined,2,black,0
+KIVIK,modular,30995,undetermined,2,beige,0
+VIMLE,modular,13995,undetermined,1,red,0
+VIMLE,modular,13195,undetermined,1,black,0
+VIMLE,modular,13495,undetermined,1,beige,0
+VIMLE,modular,13195,undetermined,1,blue,0
+GRÃ–NLID,modular,24695,undetermined,2,natural colour,0
+GRÃ–NLID,modular,23995,undetermined,2,grey,0
+JÃ„TTEBO,modular,28795,undetermined,2,beige,0
+VIMLE,modular,13995,undetermined,1,red,0
+GRÃ–NLID,modular,24695,undetermined,2,grey,0
+JÃ„TTEBO,modular,22495,undetermined,1,grey,0
+GRÃ–NLID,modular,23995,undetermined,2,green,0
+JÃ„TTEBO,modular,23495,undetermined,1,beige,0
+GRÃ–NLID,modular,81685,extra soft,4,grey,1
+GRÃ–NLID,modular,78685,extra soft,4,green,1
+GRÃ–NLID,modular,35395,extra soft,2,green,1
+GRÃ–NLID,modular,35395,extra soft,2,grey,1
+GRÃ–NLID,modular,37695,extra soft,2,grey,1
+SÃ–DERHAMN,modular,63785,extra soft,4,grey,0
+SÃ–DERHAMN,modular,40890,extra soft,3,grey,1
+SÃ–DERHAMN,modular,41590,extra soft,3,beige,0
+VIMLE,modular,25395,undetermined,3,red,0
+VIMLE,modular,23995,undetermined,3,blue,0
+JÃ„TTEBO,modular,57890,soft,2,yellow,0
+JÃ„TTEBO,modular,57490,soft,2,beige,0
+KIVIK,modular,86585,medium firm,5,black,1
+VIMLE,modular,35695,soft,3,beige,1
+KIVIK,modular,34495,medium firm,3,beige,1
+SÃ–DERHAMN,modular,40290,extra soft,2,grey,0
+SÃ–DERHAMN,modular,44990,extra soft,2,grey,1
+SÃ–DERHAMN,modular,55290,extra soft,4,grey,1
+SÃ–DERHAMN,modular,50790,extra soft,4,grey,1
+KIVIK,modular,103885,medium firm,6,black,0
+JÃ„TTEBO,modular,59290,soft,2,beige,0
+GRÃ–NLID,modular,18495,undetermined,2,white,0
+VIMLE,modular,22200,undetermined,2,blue,0
+GRÃ–NLID,modular,12895,undetermined,1,red,0
+GRÃ–NLID,modular,12895,undetermined,1,grey,0
+SÃ–DERHAMN,modular,25295,undetermined,2,natural colour,0
+JÃ„TTEBO,modular,91485,soft,3,beige,0
+SÃ–DERHAMN,modular,19995,undetermined,1,red,0
+GRÃ–NLID,modular,35885,undetermined,2,grey,0
+VIMLE,modular,22900,undetermined,2,red,0
+GRÃ–NLID,modular,19295,undetermined,2,grey,0
+SÃ–DERHAMN,modular,25295,undetermined,2,grey,0
+SÃ–DERHAMN,modular,33695,extra soft,3,grey,1
+VIMLE,modular,20595,undetermined,2,red,0
+GRÃ–NLID,modular,24795,undetermined,3,white,0
+GRÃ–NLID,modular,19295,undetermined,2,grey,0
+GRÃ–NLID,modular,19295,undetermined,2,red,0
+GRÃ–NLID,modular,24100,undetermined,2,red,0
+SÃ–DERHAMN,modular,19695,undetermined,1,natural colour,0
+SÃ–DERHAMN,modular,70885,extra soft,4,grey,1
+JÃ„TTEBO,modular,57390,soft,3,beige,0
+SÃ–DERHAMN,modular,32895,extra soft,3,natural colour,1
+SÃ–DERHAMN,modular,60585,extra soft,3,grey,1
+SÃ–DERHAMN,modular,21895,undetermined,2,beige,0
+JÃ„TTEBO,modular,86985,soft,4,yellow,0
+JÃ„TTEBO,modular,63190,undetermined,2,yellow,0
+VIMLE,modular,18095,undetermined,2,black,0
+VIMLE,modular,22200,undetermined,2,black,0
+GRÃ–NLID,modular,12095,undetermined,1,white,0
+JÃ„TTEBO,modular,58190,soft,3,yellow,0
+JÃ„TTEBO,modular,28195,undetermined,1,grey,0
+SÃ–DERHAMN,modular,21195,undetermined,2,brown,0
+GRÃ–NLID,modular,24800,undetermined,2,grey,0
+GRÃ–NLID,modular,26095,undetermined,3,grey,0
+SÃ–DERHAMN,modular,19695,undetermined,1,grey,0
+SÃ–DERHAMN,modular,61285,extra soft,3,beige,0
+SÃ–DERHAMN,modular,71585,extra soft,4,beige,0
+VIMLE,modular,20595,undetermined,2,red,0
+VIMLE,modular,22900,undetermined,2,grey,0
+SÃ–DERHAMN,modular,33695,extra soft,3,beige,0
+JÃ„TTEBO,modular,33395,undetermined,1,grey,0
+JÃ„TTEBO,modular,28795,undetermined,2,beige,0
+SÃ–DERHAMN,modular,16495,undetermined,1,red,0
+GRÃ–NLID,modular,13595,undetermined,1,natural colour,0
+KIVIK,modular,48990,medium firm,4,beige,1
+SÃ–DERHAMN,modular,19695,undetermined,1,beige,0
+SÃ–DERHAMN,modular,20495,undetermined,1,grey,0
+JÃ„TTEBO,modular,19795,undetermined,1,beige,0
+JÃ„TTEBO,modular,67485,soft,4,grey,0
+JÃ„TTEBO,modular,156370,soft,7,grey,0
+JÃ„TTEBO,modular,163370,soft,7,yellow,0
+SÃ–DERHAMN,modular,78785,extra soft,6,brown,1
+KIVIK,modular,27995,medium firm,2,beige,1
+KIVIK,modular,31495,medium firm,2,beige,1
+JÃ„TTEBO,modular,84085,soft,3,grey,0
+JÃ„TTEBO,modular,33395,undetermined,1,grey,0
+GRÃ–NLID,modular,83685,extra soft,5,grey,1
+GRÃ–NLID,modular,79985,extra soft,5,red,1
+GRÃ–NLID,modular,76285,extra soft,5,white,1
+GRÃ–NLID,modular,83685,extra soft,5,natural colour,1
+SÃ–DERHAMN,modular,24995,undetermined,3,brown,0
+VIMLE,modular,34795,soft,3,red,1
+VIMLE,modular,31595,soft,3,black,1
+VIMLE,modular,33295,soft,3,grey,1
+VIMLE,modular,34795,soft,3,red,1
+JÃ„TTEBO,modular,85385,soft,4,grey,0
+KIVIK,modular,51390,medium firm,3,beige,1
+KIVIK,modular,45990,medium firm,3,beige,1
+KIVIK,modular,37195,undetermined,2,beige,0
+JÃ„TTEBO,modular,28195,undetermined,1,grey,0
+GRÃ–NLID,modular,23995,undetermined,2,red,0
+GRÃ–NLID,modular,73485,extra soft,4,white,1
+GRÃ–NLID,modular,81685,extra soft,4,natural colour,1
+GRÃ–NLID,modular,77885,extra soft,4,red,1
+KIVIK,modular,68690,medium firm,4,beige,1
+GRÃ–NLID,modular,34595,extra soft,2,red,1
+GRÃ–NLID,modular,32995,extra soft,2,white,1
+SÃ–DERHAMN,modular,70585,extra soft,4,beige,1
+SÃ–DERHAMN,modular,67985,extra soft,4,brown,1
+JÃ„TTEBO,modular,50190,soft,2,grey,0
+JÃ„TTEBO,modular,52790,soft,2,yellow,0
+VIMLE,modular,25395,undetermined,3,red,0
+VIMLE,modular,23995,undetermined,3,black,0
+VIMLE,modular,24695,undetermined,3,grey,0
+KIVIK,modular,76985,medium firm,5,beige,1
+KIVIK,modular,88585,medium firm,5,beige,1
+VIMLE,modular,30595,soft,2,red,1
+VIMLE,modular,29095,soft,2,grey,1
+VIMLE,modular,27595,soft,2,black,1
+VIMLE,modular,30595,soft,2,red,1
+VIMLE,modular,29095,soft,2,beige,0
+VIMLE,modular,36795,soft,3,red,1
+VIMLE,modular,36795,soft,3,red,1
+VIMLE,modular,35695,soft,3,grey,1
+VIMLE,modular,33895,soft,3,black,1
+KIVIK,modular,32995,medium firm,3,grey,1
+SÃ–DERHAMN,modular,44990,extra soft,2,beige,1
+SÃ–DERHAMN,modular,42990,extra soft,2,brown,1
+SÃ–DERHAMN,modular,52790,extra soft,4,brown,1
+SÃ–DERHAMN,modular,55290,extra soft,4,beige,0
+SÃ–DERHAMN,modular,49990,undetermined,4,red,0
+KIVIK,modular,89985,medium firm,6,beige,1
+KIVIK,modular,105885,medium firm,6,beige,0
+JÃ„TTEBO,modular,57690,soft,2,grey,0
+KIVIK,modular,97985,medium firm,7,grey,1
+KIVIK,modular,108885,medium firm,7,beige,0
+GRÃ–NLID,modular,12895,undetermined,1,green,0
+GRÃ–NLID,modular,26095,undetermined,3,red,0
+JÃ„TTEBO,modular,61590,undetermined,1,grey,0
+VIMLE,modular,51995,soft,3,beige,1
+VIMLE,modular,57695,soft,4,red,1
+VIMLE,modular,70085,soft,5,blue,1
+GRÃ–NLID,modular,19295,undetermined,2,natural colour,0
+GRÃ–NLID,modular,35885,undetermined,2,green,0
+GRÃ–NLID,modular,36485,undetermined,2,natural colour,0
+SÃ–DERHAMN,modular,18995,undetermined,1,brown,1
+VIMLE,modular,21195,undetermined,2,red,0
+VIMLE,modular,20495,undetermined,2,grey,0
+VIMLE,modular,52095,soft,3,black,1
+VIMLE,modular,72385,soft,4,red,1
+VIMLE,modular,66085,soft,4,blue,1
+VIMLE,modular,87885,soft,5,black,1
+Ã„PPLARYD,modular,21995,undetermined,2,grey,0
+GRÃ–NLID,modular,24800,undetermined,2,natural colour,0
+KIVIK,modular,51290,medium firm,4,grey,1
+JÃ„TTEBO,modular,74885,soft,2,grey,0
+VIMLE,modular,53495,soft,3,red,1
+VIMLE,modular,95285,soft,5,red,1
+VIMLE,modular,73185,soft,5,beige,0
+VIMLE,modular,73185,soft,5,grey,1
+KIVIK,modular,83785,medium firm,6,grey,1
+JÃ„TTEBO,modular,19795,undetermined,1,yellow,0
+JÃ„TTEBO,modular,70485,soft,4,yellow,0
+VIMLE,modular,54395,soft,3,beige,1
+VIMLE,modular,56195,soft,4,beige,1
+VIMLE,modular,69685,soft,5,black,1
+GRÃ–NLID,modular,32185,undetermined,2,white,0
+GRÃ–NLID,modular,32885,undetermined,2,green,0
+JÃ„TTEBO,modular,89285,soft,3,grey,0
+JÃ„TTEBO,modular,77685,soft,2,yellow,0
+VIMLE,modular,19995,undetermined,2,black,0
+VIMLE,modular,19395,undetermined,2,beige,0
+VIMLE,modular,22900,undetermined,2,beige,0
+VIMLE,modular,55495,soft,3,red,1
+VIMLE,modular,51995,soft,3,grey,1
+VIMLE,modular,65685,soft,4,black,1
+VIMLE,modular,76585,soft,5,red,1
+GRÃ–NLID,modular,32885,undetermined,2,red,0
+SÃ–DERHAMN,modular,32595,extra soft,3,brown,1
+VIMLE,modular,50195,soft,3,blue,1
+VIMLE,modular,72385,soft,4,red,1
+GRÃ–NLID,modular,23400,undetermined,2,white,0
+GRÃ–NLID,modular,26695,undetermined,3,natural colour,0
+GRÃ–NLID,modular,24100,undetermined,2,green,0
+SÃ–DERHAMN,modular,25295,undetermined,2,beige,0
+VIMLE,modular,68985,soft,4,beige,1
+VIMLE,modular,91885,soft,5,grey,1
+GRÃ–NLID,modular,32885,undetermined,2,grey,0
+JÃ„TTEBO,modular,93880,soft,4,grey,0
+KIVIK,modular,91585,medium firm,6,beige,1
+VIMLE,modular,20495,undetermined,2,beige,0
+VIMLE,modular,54395,soft,3,grey,1
+VIMLE,modular,57695,soft,4,red,1
+VIMLE,modular,56195,soft,4,grey,1
+VIMLE,modular,53795,soft,4,black,1
+VIMLE,modular,88285,soft,5,blue,1
+GRÃ–NLID,modular,33485,undetermined,2,natural colour,0
+JÃ„TTEBO,modular,83585,soft,4,grey,0
+VIMLE,modular,19995,undetermined,2,blue,0
+VIMLE,modular,19395,undetermined,2,grey,0
+VIMLE,modular,53495,soft,3,red,1
+VIMLE,modular,52495,soft,3,blue,1
+VIMLE,modular,95285,soft,5,red,1
+GRÃ–NLID,modular,26695,undetermined,3,grey,0
+JÃ„TTEBO,modular,97480,soft,4,yellow,0
+GRÃ–NLID,modular,35185,undetermined,2,white,0
+SÃ–DERHAMN,modular,74185,undetermined,6,red,0
+JÃ„TTEBO,modular,34395,undetermined,2,yellow,0
+SÃ–DERHAMN,modular,23895,undetermined,3,red,0
+KIVIK,modular,19495,medium firm,2,grey,0
+KIVIK,modular,17495,medium firm,2,beige,0
+KIVIK,modular,20995,medium firm,2,beige,0
+KIVIK,modular,62490,medium firm,4,grey,1
+KIVIK,modular,58990,medium firm,4,beige,1
+SÃ–DERHAMN,modular,62585,undetermined,4,red,0
+SÃ–DERHAMN,modular,36490,undetermined,3,red,0
+SÃ–DERHAMN,modular,40190,extra soft,3,brown,1
+SÃ–DERHAMN,modular,39390,undetermined,2,red,0
+SÃ–DERHAMN,modular,22895,undetermined,1,red,0
+SÃ–DERHAMN,modular,23995,undetermined,2,brown,0
+SÃ–DERHAMN,modular,30295,undetermined,3,red,0
+JÃ„TTEBO,modular,34395,undetermined,2,yellow,0
+SÃ–DERHAMN,modular,52985,undetermined,3,red,0
+SÃ–DERHAMN,modular,59185,extra soft,3,brown,1
+SÃ–DERHAMN,modular,63585,undetermined,4,red,0
+SÃ–DERHAMN,modular,68985,extra soft,4,brown,1
+JÃ„TTEBO,modular,130575,soft,6,yellow,0
+JÃ„TTEBO,modular,129375,soft,6,beige,0
+GRÃ–NLID,modular,96885,extra soft,5,white,1
+GRÃ–NLID,modular,101985,extra soft,5,red,1
+GRÃ–NLID,modular,102785,extra soft,5,grey,1
+GRÃ–NLID,modular,106485,extra soft,5,grey,1
+GRÃ–NLID,modular,106485,extra soft,5,natural colour,1
+KIVIK,modular,65490,medium firm,5,grey,1
+KIVIK,modular,61990,medium firm,5,beige,1
+VIMLE,modular,31595,soft,2,red,1
+VIMLE,modular,29095,soft,2,beige,1
+VIMLE,modular,29695,soft,2,grey,1
+VIMLE,modular,28595,soft,2,blue,1
+JÃ„TTEBO,modular,50790,soft,2,yellow,0
+JÃ„TTEBO,modular,49990,soft,2,beige,0
+ÄLVDALEN,sofa bed,18995,undetermined,3,beige,0
+BÅRSLÖV,sofa bed,34995,undetermined,3,beige,0
+GRÖNLID,sofa bed,114675,extra soft,5,grey,1
+HEMNES,sofa bed,27585,firm,2,grey,0
+KIVIK,sofa bed,24995,medium firm,1,beige,0
+LYCKSELE LÖVÅS,sofa bed,15395,undetermined,2,grey,1
+FRIHETEN,sofa bed,25995,firm,3,black,0
+BÅRSLÖV,sofa bed,31995,undetermined,3,grey,0
+ÄLVDALEN,sofa bed,20995,undetermined,3,beige,0
+GRÖNLID,sofa bed,46485,extra soft,2,red,1
+GRÄLVIKEN,sofa bed,23495,firm,3,grey,0
+BRIMNES,sofa bed,15995,undetermined,2,white,0
+HOLMSUND,sofa bed,30495,undetermined,3,blue,0
+LYCKSELE HÅVET,sofa bed,19095,undetermined,2,grey,1
+GRÖNLID,sofa bed,59380,extra soft,3,red,1
+LANDSKRONA,sofa bed,46495,firm,3,red,0
+LANDSKRONA,sofa bed,64495,firm,3,brown,0
+VIMLE,sofa bed,48885,soft,2,black,1
+NYHAMN,sofa bed,15495,firm,3,beige,1
+FRIHETEN / KLAGSHAMN,sofa bed,31395,firm,2,blue,0
+GRÖNLID,sofa bed,70585,extra soft,3,red,1
+HEMNES,sofa bed,20995,undetermined,3,white,0
+VIMLE,sofa bed,71085,soft,3,black,1
+LINANÄS,sofa bed,2200,undetermined,2,green,0
+VRETSTORP,sofa bed,33495,medium firm,3,beige,1
+VIMLE,sofa bed,49885,soft,2,black,1
+FLEKKE,sofa bed,26985,firm,2,brown,0
+LYCKSELE MURBO,sofa bed,18395,undetermined,2,grey,1
+FYRESDAL,sofa bed,33085,extra firm,2,black,0
+VIMLE,sofa bed,62480,soft,3,blue,1
+BRIMNES,sofa bed,22985,firm,2,white,0
+FLEKKE,sofa bed,19995,undetermined,2,brown,0
+VIMLE,sofa bed,72085,soft,3,blue,1
+FYRESDAL,sofa bed,18495,undetermined,2,black,0
+LINANÄS,sofa bed,4200,undetermined,3,green,0
+LINANÄS,sofa bed,3000,undetermined,3,green,0
+HOLMSUND,sofa bed,31800,firm,2,grey,1
+ASKEBY,sofa bed,9495,firm,2,black,0
+VIMLE,sofa bed,109575,soft,5,blue,1
+LYCKSELE,sofa bed,1200,undetermined,2,black,0
+GRÖNLID,sofa bed,32885,undetermined,2,grey,0
+VIMLE,sofa bed,113575,soft,5,red,1
+NYHAMN,sofa bed,19295,undetermined,3,beige,1
+VIMLE,sofa bed,65985,soft,2,black,0
+VIMLE,sofa bed,60880,soft,3,beige,1
+VIMLE,sofa bed,85480,soft,3,black,0
+VIMLE,sofa bed,149470,soft,5,black,0
+VIMLE,sofa bed,95980,soft,3,black,0
+FRIHETEN,sofa bed,25695,firm,2,blue,0
+ÄLVDALEN,sofa bed,18995,undetermined,3,grey,0
+HEMNES,sofa bed,35585,extra firm,2,white,0
+HEMNES,sofa bed,27585,firm,2,white,0
+HEMNES,sofa bed,27985,firm,2,grey,0
+HEMNES,sofa bed,27985,medium firm,2,white,0
+HEMNES,sofa bed,35585,extra firm,2,grey,0
+HEMNES,sofa bed,27985,firm,2,white,0
+HEMNES,sofa bed,27985,medium firm,2,grey,0
+KIVIK,sofa bed,23295,medium firm,1,grey,0
+KIVIK,sofa bed,24995,medium firm,1,black,0
+LYCKSELE LÖVÅS,sofa bed,15195,undetermined,2,multicolour,1
+LYCKSELE LÖVÅS,sofa bed,15995,undetermined,2,green,1
+FRIHETEN,sofa bed,24495,firm,3,blue,0
+BÅRSLÖV,sofa bed,31995,undetermined,3,beige,0
+ÄLVDALEN,sofa bed,20995,undetermined,3,grey,0
+GRÖNLID,sofa bed,47285,extra soft,2,grey,1
+HOLMSUND,sofa bed,30495,undetermined,3,brown,0
+HOLMSUND,sofa bed,32995,undetermined,3,beige,0
+HOLMSUND,sofa bed,32995,undetermined,3,grey,0
+HOLMSUND,sofa bed,31195,firm,3,beige,1
+LYCKSELE HÅVET,sofa bed,19695,undetermined,2,green,1
+LYCKSELE HÅVET,sofa bed,18895,undetermined,2,multicolour,1
+GRÖNLID,sofa bed,60180,extra soft,3,grey,1
+LANDSKRONA,sofa bed,46495,firm,3,red,0
+LANDSKRONA,sofa bed,64495,firm,3,black,0
+VIMLE,sofa bed,49285,soft,2,blue,1
+VIMLE,sofa bed,50385,soft,2,beige,1
+VIMLE,sofa bed,50385,soft,2,grey,1
+FRIHETEN / KLAGSHAMN,sofa bed,31395,firm,2,grey,0
+GRÖNLID,sofa bed,71385,extra soft,3,grey,1
+HEMNES,sofa bed,20995,undetermined,3,grey,0
+VIMLE,sofa bed,73285,soft,3,grey,1
+VIMLE,sofa bed,71485,soft,3,blue,1
+VRETSTORP,sofa bed,30395,medium firm,3,grey,0
+VRETSTORP,sofa bed,32495,medium firm,3,beige,0
+VIMLE,sofa bed,52885,soft,2,red,1
+VIMLE,sofa bed,50385,soft,2,beige,1
+VIMLE,sofa bed,49885,soft,2,blue,1
+FLEKKE,sofa bed,34585,extra firm,2,brown,0
+FLEKKE,sofa bed,26585,firm,2,brown,0
+FLEKKE,sofa bed,26985,medium firm,2,brown,0
+LYCKSELE MURBO,sofa bed,18995,undetermined,2,green,1
+LYCKSELE MURBO,sofa bed,18195,undetermined,2,multicolour,1
+FYRESDAL,sofa bed,25085,firm,2,black,0
+FYRESDAL,sofa bed,25485,firm,2,black,0
+FYRESDAL,sofa bed,25485,medium firm,2,black,0
+VIMLE,sofa bed,63880,soft,3,grey,1
+VIMLE,sofa bed,63880,soft,3,beige,1
+VIMLE,sofa bed,62080,soft,3,black,1
+BRIMNES,sofa bed,22585,firm,2,white,0
+BRIMNES,sofa bed,30585,extra firm,2,white,0
+BRIMNES,sofa bed,22985,medium firm,2,white,0
+VIMLE,sofa bed,72285,soft,3,black,1
+VIMLE,sofa bed,75785,soft,3,red,1
+FRIHETEN,sofa bed,28795,firm,2,black,0
+BÅRSLÖV,sofa bed,34995,undetermined,3,grey,0
+GRÖNLID,sofa bed,107075,extra soft,5,white,1
+GRÖNLID,sofa bed,111675,extra soft,5,green,1
+GRÖNLID,sofa bed,115275,extra soft,5,natural colour,1
+GRÖNLID,sofa bed,110075,extra soft,5,white,1
+GRÖNLID,sofa bed,118275,extra soft,5,natural colour,1
+GRÖNLID,sofa bed,114675,extra soft,5,green,1
+GRÖNLID,sofa bed,110875,extra soft,5,red,1
+GRÖNLID,sofa bed,113875,extra soft,5,red,1
+GRÖNLID,sofa bed,111675,extra soft,5,grey,1
+HEMNES,sofa bed,30985,firm,2,grey,0
+HEMNES,sofa bed,30985,firm,2,white,0
+HOLMSUND,sofa bed,33500,firm,2,blue,1
+HOLMSUND,sofa bed,33500,firm,2,white,1
+HOLMSUND,sofa bed,33300,undetermined,2,blue,0
+HOLMSUND,sofa bed,35800,undetermined,2,beige,0
+HOLMSUND,sofa bed,35800,undetermined,2,grey,0
+HOLMSUND,sofa bed,34800,firm,2,beige,1
+HOLMSUND,sofa bed,33300,undetermined,2,brown,0
+KIVIK,sofa bed,21295,medium firm,1,beige,0
+LYCKSELE LÖVÅS,sofa bed,15995,undetermined,2,grey,1
+LYCKSELE LÖVÅS,sofa bed,14995,undetermined,2,natural colour,1
+FRIHETEN,sofa bed,24495,firm,3,grey,0
+GRÖNLID,sofa bed,44285,extra soft,2,green,1
+GRÖNLID,sofa bed,47285,extra soft,2,green,1
+GRÖNLID,sofa bed,43485,extra soft,2,red,1
+GRÖNLID,sofa bed,43185,extra soft,2,white,1
+GRÖNLID,sofa bed,44285,extra soft,2,grey,1
+GRÖNLID,sofa bed,46485,extra soft,2,natural colour,1
+GRÖNLID,sofa bed,46185,extra soft,2,white,1
+GRÖNLID,sofa bed,49485,extra soft,2,natural colour,1
+VIMLE,sofa bed,106175,soft,5,black,1
+VIMLE,sofa bed,106575,soft,5,blue,1
+VIMLE,sofa bed,110175,soft,5,grey,1
+VIMLE,sofa bed,113175,soft,5,grey,1
+VIMLE,sofa bed,110175,soft,5,beige,1
+VIMLE,sofa bed,113175,soft,5,beige,1
+VIMLE,sofa bed,117575,soft,5,red,1
+VIMLE,sofa bed,114575,soft,5,red,1
+HOLMSUND,sofa bed,28195,firm,3,grey,1
+HOLMSUND,sofa bed,30495,firm,3,blue,1
+HOLMSUND,sofa bed,30495,firm,3,white,1
+LYCKSELE HÅVET,sofa bed,18695,undetermined,2,natural colour,1
+LYCKSELE HÅVET,sofa bed,19695,undetermined,2,grey,1
+GRÖNLID,sofa bed,57180,extra soft,3,green,1
+GRÖNLID,sofa bed,55280,extra soft,3,white,1
+GRÖNLID,sofa bed,63080,extra soft,3,natural colour,1
+GRÖNLID,sofa bed,56380,extra soft,3,red,1
+GRÖNLID,sofa bed,60180,extra soft,3,green,1
+GRÖNLID,sofa bed,57180,extra soft,3,grey,1
+GRÖNLID,sofa bed,58280,extra soft,3,white,1
+GRÖNLID,sofa bed,60080,extra soft,3,natural colour,1
+LANDSKRONA,sofa bed,46495,firm,3,red,0
+LANDSKRONA,sofa bed,46495,firm,3,red,0
+LANDSKRONA,sofa bed,64495,firm,3,black,0
+LANDSKRONA,sofa bed,64495,firm,3,brown,0
+VIMLE,sofa bed,48885,soft,2,red,1
+VIMLE,sofa bed,51885,soft,2,red,1
+VIMLE,sofa bed,48885,soft,2,red,1
+VIMLE,sofa bed,47385,soft,2,beige,1
+VIMLE,sofa bed,47385,soft,2,grey,1
+VIMLE,sofa bed,51885,soft,2,red,1
+VIMLE,sofa bed,45885,soft,2,black,0
+VIMLE,sofa bed,46285,soft,2,blue,0
+VIMLE,sofa bed,109175,soft,5,black,1
+GRÖNLID,sofa bed,33485,undetermined,2,natural colour,0
+GRÖNLID,sofa bed,68385,extra soft,3,grey,1
+GRÖNLID,sofa bed,71285,extra soft,3,natural colour,1
+GRÖNLID,sofa bed,71385,extra soft,3,green,1
+GRÖNLID,sofa bed,74285,extra soft,3,natural colour,1
+GRÖNLID,sofa bed,68385,extra soft,3,green,1
+GRÖNLID,sofa bed,67585,extra soft,3,red,1
+VIMLE,sofa bed,74785,soft,3,red,1
+VIMLE,sofa bed,74785,soft,3,red,1
+VIMLE,sofa bed,70285,soft,3,grey,1
+VIMLE,sofa bed,71785,soft,3,red,1
+VIMLE,sofa bed,68485,soft,3,blue,1
+VIMLE,sofa bed,73285,soft,3,beige,1
+VIMLE,sofa bed,70285,soft,3,beige,1
+VRETSTORP,sofa bed,30395,medium firm,3,grey,0
+VRETSTORP,sofa bed,32495,medium firm,3,blue,0
+VIMLE,sofa bed,47985,soft,2,grey,1
+VIMLE,sofa bed,49885,soft,2,red,1
+VIMLE,sofa bed,46885,soft,2,blue,0
+VIMLE,sofa bed,47385,soft,2,beige,1
+VIMLE,sofa bed,50985,soft,2,grey,1
+VIMLE,sofa bed,46885,soft,2,black,0
+FLEKKE,sofa bed,29985,firm,2,brown,0
+LYCKSELE MURBO,sofa bed,17995,undetermined,2,natural colour,1
+LYCKSELE MURBO,sofa bed,18995,undetermined,2,grey,1
+VIMLE,sofa bed,113175,soft,5,grey,1
+VIMLE,sofa bed,113575,soft,5,red,1
+VIMLE,sofa bed,116575,soft,5,red,1
+VIMLE,sofa bed,109175,soft,5,black,1
+VIMLE,sofa bed,110175,soft,5,beige,1
+VIMLE,sofa bed,110175,soft,5,grey,1
+VIMLE,sofa bed,109575,soft,5,blue,1
+VIMLE,sofa bed,116575,soft,5,red,1
+VIMLE,sofa bed,106175,soft,5,black,1
+VIMLE,sofa bed,113175,soft,5,beige,1
+VIMLE,sofa bed,106575,soft,5,blue,1
+FYRESDAL,sofa bed,28485,firm,2,black,0
+VIMLE,sofa bed,65880,soft,3,red,1
+VIMLE,sofa bed,62880,soft,3,red,1
+VIMLE,sofa bed,60880,soft,3,beige,1
+VIMLE,sofa bed,59480,soft,3,blue,1
+VIMLE,sofa bed,62880,soft,3,red,1
+VIMLE,sofa bed,60880,soft,3,grey,1
+VIMLE,sofa bed,65880,soft,3,red,1
+VIMLE,sofa bed,59080,soft,3,black,1
+BRIMNES,sofa bed,25985,firm,2,white,0
+VIMLE,sofa bed,61480,soft,3,grey,1
+VIMLE,sofa bed,60080,soft,3,black,1
+VIMLE,sofa bed,60080,soft,3,blue,1
+VIMLE,sofa bed,63880,soft,3,red,1
+VIMLE,sofa bed,69285,soft,3,black,1
+VIMLE,sofa bed,73285,soft,3,beige,1
+VIMLE,sofa bed,69085,soft,3,blue,1
+VIMLE,sofa bed,70885,soft,3,grey,1
+VIMLE,sofa bed,70285,soft,3,beige,1
+VIMLE,sofa bed,72785,soft,3,red,1
+VIMLE,sofa bed,73885,soft,3,grey,1
+JÄTTEBO,sofa bed,163370,soft,7,yellow,0
+JÄTTEBO,sofa bed,156370,soft,7,grey,0
+SÖDERHAMN,sofa bed,81185,extra soft,6,grey,1
+SÖDERHAMN,sofa bed,81885,extra soft,6,beige,0
+SÖDERHAMN,sofa bed,74185,undetermined,6,red,0
+SÖDERHAMN,sofa bed,78785,extra soft,6,brown,1
+JÄTTEBO,sofa bed,86285,soft,3,beige,0
+JÄTTEBO,sofa bed,84085,soft,3,grey,0
+GRÖNLID,sofa bed,76285,extra soft,5,white,1
+GRÖNLID,sofa bed,79985,extra soft,5,red,1
+GRÖNLID,sofa bed,80785,extra soft,5,grey,1
+GRÖNLID,sofa bed,83685,extra soft,5,grey,1
+GRÖNLID,sofa bed,83685,extra soft,5,natural colour,1
+SÖDERHAMN,sofa bed,26295,undetermined,3,grey,0
+SÖDERHAMN,sofa bed,26295,undetermined,3,beige,0
+SÖDERHAMN,sofa bed,26295,undetermined,3,natural colour,0
+SÖDERHAMN,sofa bed,23895,undetermined,3,red,0
+SÖDERHAMN,sofa bed,24995,undetermined,3,brown,0
+JÄTTEBO,sofa bed,88985,soft,4,yellow,0
+JÄTTEBO,sofa bed,85385,soft,4,grey,0
+GRÖNLID,sofa bed,23995,undetermined,2,green,0
+GRÖNLID,sofa bed,23995,undetermined,2,red,0
+GRÖNLID,sofa bed,23995,undetermined,2,grey,0
+GRÖNLID,sofa bed,24695,undetermined,2,grey,0
+GRÖNLID,sofa bed,24695,undetermined,2,natural colour,0
+JÄTTEBO,sofa bed,23495,undetermined,1,beige,0
+JÄTTEBO,sofa bed,22495,undetermined,1,grey,0
+GRÖNLID,sofa bed,73485,extra soft,4,white,1
+GRÖNLID,sofa bed,78685,extra soft,4,green,1
+GRÖNLID,sofa bed,77885,extra soft,4,red,1
+GRÖNLID,sofa bed,81685,extra soft,4,grey,1
+GRÖNLID,sofa bed,81685,extra soft,4,natural colour,1
+GRÖNLID,sofa bed,32995,extra soft,2,white,1
+GRÖNLID,sofa bed,35395,extra soft,2,green,1
+GRÖNLID,sofa bed,34595,extra soft,2,red,1
+GRÖNLID,sofa bed,35395,extra soft,2,grey,1
+GRÖNLID,sofa bed,37695,extra soft,2,grey,1
+SÖDERHAMN,sofa bed,70585,extra soft,4,beige,1
+SÖDERHAMN,sofa bed,63785,extra soft,4,grey,0
+SÖDERHAMN,sofa bed,62585,undetermined,4,red,0
+SÖDERHAMN,sofa bed,67985,extra soft,4,brown,1
+SÖDERHAMN,sofa bed,40890,extra soft,3,grey,1
+SÖDERHAMN,sofa bed,41590,extra soft,3,beige,0
+SÖDERHAMN,sofa bed,36490,undetermined,3,red,0
+SÖDERHAMN,sofa bed,40190,extra soft,3,brown,1
+JÄTTEBO,sofa bed,52790,soft,2,yellow,0
+JÄTTEBO,sofa bed,50190,soft,2,grey,0
+JÄTTEBO,sofa bed,57890,soft,2,yellow,0
+JÄTTEBO,sofa bed,57490,soft,2,beige,0
+SÖDERHAMN,sofa bed,44990,extra soft,2,grey,1
+SÖDERHAMN,sofa bed,44990,extra soft,2,beige,1
+SÖDERHAMN,sofa bed,40290,extra soft,2,grey,0
+SÖDERHAMN,sofa bed,39390,undetermined,2,red,0
+SÖDERHAMN,sofa bed,42990,extra soft,2,brown,1
+SÖDERHAMN,sofa bed,55290,extra soft,4,grey,1
+SÖDERHAMN,sofa bed,55290,extra soft,4,beige,0
+SÖDERHAMN,sofa bed,50790,extra soft,4,grey,1
+SÖDERHAMN,sofa bed,49990,undetermined,4,red,0
+SÖDERHAMN,sofa bed,52790,extra soft,4,brown,1
+JÄTTEBO,sofa bed,59290,soft,2,beige,0
+JÄTTEBO,sofa bed,57690,soft,2,grey,0
+GRÖNLID,sofa bed,18495,undetermined,2,white,0
+GRÖNLID,sofa bed,19295,undetermined,2,red,0
+GRÖNLID,sofa bed,19295,undetermined,2,grey,0
+GRÖNLID,sofa bed,19295,undetermined,2,grey,0
+GRÖNLID,sofa bed,19295,undetermined,2,natural colour,0
+SÖDERHAMN,sofa bed,33695,extra soft,3,grey,1
+SÖDERHAMN,sofa bed,33695,extra soft,3,beige,0
+SÖDERHAMN,sofa bed,32895,extra soft,3,natural colour,1
+SÖDERHAMN,sofa bed,30295,undetermined,3,red,0
+SÖDERHAMN,sofa bed,32595,extra soft,3,brown,1
+JÄTTEBO,sofa bed,86985,soft,4,yellow,0
+JÄTTEBO,sofa bed,83585,soft,4,grey,0
+GRÖNLID,sofa bed,32185,undetermined,2,white,0
+GRÖNLID,sofa bed,35885,undetermined,2,green,0
+GRÖNLID,sofa bed,35885,undetermined,2,grey,0
+GRÖNLID,sofa bed,36485,undetermined,2,natural colour,0
+GRÖNLID,sofa bed,24795,undetermined,3,white,0
+GRÖNLID,sofa bed,26095,undetermined,3,red,0
+GRÖNLID,sofa bed,26695,undetermined,3,grey,0
+GRÖNLID,sofa bed,26695,undetermined,3,natural colour,0
+SÖDERHAMN,sofa bed,21895,undetermined,2,beige,0
+SÖDERHAMN,sofa bed,20495,undetermined,1,grey,0
+SÖDERHAMN,sofa bed,19995,undetermined,1,red,0
+SÖDERHAMN,sofa bed,21195,undetermined,2,brown,0
+SÖDERHAMN,sofa bed,60585,extra soft,3,grey,1
+SÖDERHAMN,sofa bed,61285,extra soft,3,beige,0
+SÖDERHAMN,sofa bed,52985,undetermined,3,red,0
+SÖDERHAMN,sofa bed,59185,extra soft,3,brown,1
+SÖDERHAMN,sofa bed,70885,extra soft,4,grey,1
+SÖDERHAMN,sofa bed,71585,extra soft,4,beige,0
+SÖDERHAMN,sofa bed,63585,undetermined,4,red,0
+SÖDERHAMN,sofa bed,68985,extra soft,4,brown,1
+JÄTTEBO,sofa bed,19795,undetermined,1,yellow,0
+JÄTTEBO,sofa bed,19795,undetermined,1,beige,0
+JÄTTEBO,sofa bed,58190,soft,3,yellow,0
+JÄTTEBO,sofa bed,57390,soft,3,beige,0
+GRÖNLID,sofa bed,12095,undetermined,1,white,0
+GRÖNLID,sofa bed,12895,undetermined,1,green,0
+GRÖNLID,sofa bed,12895,undetermined,1,red,0
+GRÖNLID,sofa bed,12895,undetermined,1,grey,0
+GRÖNLID,sofa bed,13595,undetermined,1,natural colour,0
+JÄTTEBO,sofa bed,91485,soft,3,beige,0
+JÄTTEBO,sofa bed,89285,soft,3,grey,0
+SÖDERHAMN,sofa bed,19695,undetermined,1,grey,0
+SÖDERHAMN,sofa bed,19695,undetermined,1,beige,0
+SÖDERHAMN,sofa bed,19695,undetermined,1,natural colour,0
+SÖDERHAMN,sofa bed,16495,undetermined,1,red,0
+SÖDERHAMN,sofa bed,18995,undetermined,1,brown,1
+JÄTTEBO,sofa bed,77685,soft,2,yellow,0
+JÄTTEBO,sofa bed,74885,soft,2,grey,0
+JÄTTEBO,sofa bed,70485,soft,4,yellow,0
+JÄTTEBO,sofa bed,67485,soft,4,grey,0
+ÄPPLARYD,sofa bed,21995,undetermined,2,grey,0
+JÄTTEBO,sofa bed,97480,soft,4,yellow,0
+JÄTTEBO,sofa bed,93880,soft,4,grey,0
+JÄTTEBO,sofa bed,130575,soft,6,yellow,0
+JÄTTEBO,sofa bed,129375,soft,6,beige,0
+GRÖNLID,sofa bed,96885,extra soft,5,white,1
+GRÖNLID,sofa bed,101985,extra soft,5,red,1
+GRÖNLID,sofa bed,102785,extra soft,5,grey,1
+GRÖNLID,sofa bed,106485,extra soft,5,grey,1
+GRÖNLID,sofa bed,106485,extra soft,5,natural colour,1
+JÄTTEBO,sofa bed,50790,soft,2,yellow,0
+JÄTTEBO,sofa bed,49990,soft,2,beige,0
+SÖDERHAMN,sofa bed,75285,extra soft,6,grey,0
+JÄTTEBO,sofa bed,86685,soft,3,yellow,0
+GRÖNLID,sofa bed,80785,extra soft,5,green,1
+SÖDERHAMN,sofa bed,24395,undetermined,3,grey,0
+JÄTTEBO,sofa bed,87985,soft,4,beige,0
+GRÖNLID,sofa bed,21995,undetermined,2,white,0
+JÄTTEBO,sofa bed,23495,undetermined,1,yellow,0
+GRÖNLID,sofa bed,78685,extra soft,4,grey,1
+GRÖNLID,sofa bed,37695,extra soft,2,natural colour,1
+SÖDERHAMN,sofa bed,69885,extra soft,4,grey,1
+SÖDERHAMN,sofa bed,37390,extra soft,3,grey,0
+JÄTTEBO,sofa bed,55890,soft,2,grey,0
+SÖDERHAMN,sofa bed,44990,extra soft,2,natural colour,0
+SÖDERHAMN,sofa bed,54890,extra soft,4,natural colour,0
+JÄTTEBO,sofa bed,59890,soft,2,yellow,0
+GRÖNLID,sofa bed,19295,undetermined,2,green,0
+GRÖNLID,sofa bed,13595,undetermined,1,grey,0
+JÄTTEBO,sofa bed,92285,soft,3,yellow,0
+SÖDERHAMN,sofa bed,21195,undetermined,2,grey,0
+GRÖNLID,sofa bed,35885,undetermined,2,red,0
+SÖDERHAMN,sofa bed,30395,extra soft,3,grey,0
+GRÖNLID,sofa bed,26095,undetermined,3,green,0
+SÖDERHAMN,sofa bed,16895,undetermined,1,grey,0
+SÖDERHAMN,sofa bed,64785,extra soft,4,grey,0
+JÄTTEBO,sofa bed,55390,soft,3,grey,0
+SÖDERHAMN,sofa bed,54285,extra soft,3,grey,0
+JÄTTEBO,sofa bed,86185,soft,4,beige,0
+JÄTTEBO,sofa bed,18995,undetermined,1,grey,0
+JÄTTEBO,sofa bed,70485,soft,4,beige,0
+JÄTTEBO,sofa bed,161770,soft,7,beige,0
+JÄTTEBO,sofa bed,51790,soft,2,beige,0
+ÄPPLARYD,sofa bed,21995,undetermined,2,grey,0
+JÄTTEBO,sofa bed,77285,soft,2,beige,0
+JÄTTEBO,sofa bed,97080,soft,4,beige,0
+VIMLE,sofa bed,68085,soft,3,black,1
+FRIHETEN,sofa bed,25695,firm,2,grey,0
+LANDSKRONA,leather,88485,medium firm,5,black,0
+LANDSKRONA,leather,31495,medium firm,3,black,0
+LANDSKRONA,leather,87485,undetermined,4,black,0
+STOCKHOLM,leather,59995,medium firm,3,natural colour,0
+KLIPPAN,leather,18995,soft,2,black,0
+LANDSKRONA,leather,30495,medium firm,2,black,0
+LANDSKRONA,leather,59990,medium firm,4,black,0
+LANDSKRONA,leather,58990,medium firm,3,black,0
+VIMLE,leather,50895,soft,3,black,0
+VIMLE,leather,42495,soft,2,black,0
+VIMLE,leather,72490,soft,3,black,0
+VIMLE,leather,76390,soft,3,black,0
+VIMLE,leather,51490,soft,3,black,0
+VIMLE,leather,46995,soft,3,black,0
+LANDSKRONA,leather,83485,undetermined,4,brown,0
+LANDSKRONA,leather,26495,medium firm,2,brown,0
+LANDSKRONA,leather,54990,medium firm,3,brown,0
+LANDSKRONA,leather,88485,medium firm,5,black,0
+LANDSKRONA,leather,84485,medium firm,5,brown,0
+LANDSKRONA,leather,84485,medium firm,5,brown,0
+LANDSKRONA,leather,27495,medium firm,3,brown,0
+LANDSKRONA,leather,27495,medium firm,3,brown,0
+LANDSKRONA,leather,31495,medium firm,3,black,0
+LANDSKRONA,leather,83485,undetermined,4,brown,0
+LANDSKRONA,leather,30495,medium firm,2,black,0
+LANDSKRONA,leather,26495,medium firm,2,brown,0
+LANDSKRONA,leather,59990,medium firm,4,black,0
+LANDSKRONA,leather,55990,medium firm,4,brown,0
+LANDSKRONA,leather,55990,medium firm,4,brown,0
+LANDSKRONA,leather,54990,medium firm,3,brown,0
+LANDSKRONA,leather,58990,medium firm,3,black,0
+LANDSKRONA,fabric,45990,medium firm,3,red,0
+LANDSKRONA,fabric,45990,medium firm,3,red,0
+VIMLE,fabric,56495,soft,3,red,1
+VIMLE,fabric,53095,soft,3,black,1
+VIMLE,fabric,54995,soft,3,grey,1
+VIMLE,fabric,53095,soft,3,blue,1
+VIMLE,fabric,54395,soft,3,beige,1
+PÃ„RUP,fabric,27695,soft,3,red,1
+PÃ„RUP,fabric,27695,soft,3,red,1
+PÃ„RUP,fabric,24995,soft,3,grey,1
+PÃ„RUP,fabric,24495,undetermined,3,brown,0
+Ã„PPLARYD,fabric,53990,medium firm,3,grey,0
+LANDSKRONA,fabric,26495,medium firm,3,red,0
+VINLIDEN,fabric,47495,extra soft,3,beige,1
+VINLIDEN,fabric,47495,extra soft,3,turquoise,1
+VINLIDEN,fabric,48495,extra soft,3,red,1
+GRÃ–NLID,fabric,79795,extra soft,4,white,1
+GRÃ–NLID,fabric,83595,extra soft,4,green,1
+GRÃ–NLID,fabric,83595,extra soft,4,grey,1
+GRÃ–NLID,fabric,87295,extra soft,4,grey,1
+GRÃ–NLID,fabric,87295,extra soft,4,natural colour,1
+GRÃ–NLID,fabric,43185,extra soft,2,white,1
+GRÃ–NLID,fabric,44285,extra soft,2,green,1
+GRÃ–NLID,fabric,43485,extra soft,2,red,1
+GRÃ–NLID,fabric,44285,extra soft,2,grey,1
+GRÃ–NLID,fabric,46485,extra soft,2,natural colour,1
+VIMLE,fabric,96285,soft,5,red,1
+VIMLE,fabric,92485,soft,5,grey,1
+VIMLE,fabric,88885,soft,5,black,1
+VIMLE,fabric,88885,soft,5,blue,0
+GRÃ–NLID,fabric,82795,extra soft,4,red,1
+VIMLE,fabric,50795,soft,3,black,1
+VIMLE,fabric,54495,soft,3,red,1
+VIMLE,fabric,51995,soft,3,beige,1
+VIMLE,fabric,50795,soft,3,blue,1
+VIMLE,fabric,52595,soft,3,grey,1
+VIMLE,fabric,73385,soft,4,red,1
+VIMLE,fabric,68985,soft,4,beige,1
+VIMLE,fabric,69585,soft,4,grey,1
+VIMLE,fabric,66685,soft,4,black,1
+VIMLE,fabric,91885,soft,5,beige,0
+VISKAFORS,fabric,47495,extra soft,3,black,0
+VISKAFORS,fabric,47495,extra soft,3,beige,0
+GRÃ–NLID,fabric,107075,extra soft,5,white,1
+GRÃ–NLID,fabric,111675,extra soft,5,green,1
+GRÃ–NLID,fabric,110875,extra soft,5,red,1
+GRÃ–NLID,fabric,111675,extra soft,5,grey,1
+GRÃ–NLID,fabric,115275,extra soft,5,natural colour,1
+GRÃ–NLID,fabric,55280,extra soft,3,white,1
+GRÃ–NLID,fabric,57180,extra soft,3,green,1
+GRÃ–NLID,fabric,59380,extra soft,3,red,1
+GRÃ–NLID,fabric,60180,extra soft,3,grey,1
+GRÃ–NLID,fabric,59195,extra soft,4,white,1
+GRÃ–NLID,fabric,61595,extra soft,4,green,1
+GRÃ–NLID,fabric,60795,extra soft,4,red,1
+GRÃ–NLID,fabric,61595,extra soft,4,grey,1
+GRÃ–NLID,fabric,64495,extra soft,4,grey,1
+GRÃ–NLID,fabric,63080,extra soft,3,natural colour,1
+LANDSKRONA,fabric,67985,undetermined,4,red,0
+LANDSKRONA,fabric,26495,medium firm,3,red,0
+VIMLE,fabric,66685,soft,4,blue,1
+GRÃ–NLID,fabric,64495,extra soft,4,natural colour,1
+GRÃ–NLID,fabric,67585,extra soft,3,red,1
+GRÃ–NLID,fabric,68385,extra soft,3,grey,1
+GRÃ–NLID,fabric,71285,extra soft,3,natural colour,1
+GRÃ–NLID,fabric,71385,extra soft,3,green,1
+Ã„PPLARYD,fabric,31995,medium firm,2,grey,0
+VISKAFORS,fabric,47495,extra soft,3,brown,0
+VISKAFORS,fabric,47495,extra soft,3,brown,0
+LANDSKRONA,fabric,67985,undetermined,4,red,0
+HYLTARP,fabric,37795,undetermined,3,brown,1
+HYLTARP,fabric,37795,undetermined,3,natural colour,1
+HYLTARP,fabric,34795,undetermined,3,blue,1
+HYLTARP,fabric,34795,undetermined,3,white,0
+HYLTARP,fabric,37795,undetermined,3,grey,1
+VINLIDEN,fabric,35895,extra soft,2,beige,1
+VINLIDEN,fabric,35895,extra soft,2,turquoise,1
+VINLIDEN,fabric,37195,extra soft,2,red,1
+EKENÄSET,fabric,21995,firm,3,beige,0
+GRÖNLID,fabric,102785,extra soft,5,green,1
+LANDSKRONA,fabric,45990,medium firm,3,red,0
+PÄRUP,fabric,27695,soft,3,red,1
+PÄRUP,fabric,22495,soft,3,green,1
+PÄRUP,fabric,24995,soft,3,grey,1
+PÄRUP,fabric,24495,undetermined,3,brown,0
+PÄRUP,fabric,27695,soft,3,red,1
+HYLTARP,fabric,51995,undetermined,3,grey,0
+HYLTARP,fabric,51995,undetermined,3,brown,0
+HYLTARP,fabric,51995,undetermined,3,natural colour,0
+HYLTARP,fabric,48995,undetermined,3,white,0
+HYLTARP,fabric,48995,undetermined,3,blue,0
+VINLIDEN,fabric,43195,extra soft,3,beige,1
+VINLIDEN,fabric,43195,extra soft,3,grey,1
+VINLIDEN,fabric,44495,extra soft,3,red,1
+VINLIDEN,fabric,47495,extra soft,3,grey,1
+HYLTARP,fabric,66995,undetermined,4,grey,1
+HYLTARP,fabric,66995,undetermined,4,brown,1
+HYLTARP,fabric,66995,undetermined,4,natural colour,1
+HYLTARP,fabric,63995,undetermined,4,white,0
+HYLTARP,fabric,63995,undetermined,4,blue,1
+BACKSÄLEN,fabric,23995,medium firm,2,white,1
+BACKSÄLEN,fabric,25495,medium firm,2,grey,1
+HYLTARP,fabric,33795,undetermined,2,grey,1
+GRÖNLID,fabric,35795,extra soft,3,white,1
+GRÖNLID,fabric,37495,extra soft,3,green,1
+GRÖNLID,fabric,36695,extra soft,3,red,1
+GRÖNLID,fabric,39695,extra soft,3,grey,1
+GRÖNLID,fabric,39695,extra soft,3,natural colour,1
+BACKSÄLEN,fabric,27495,medium firm,3,white,1
+BACKSÄLEN,fabric,28795,medium firm,3,natural colour,1
+BACKSÄLEN,fabric,28795,medium firm,3,grey,1
+SÖDERHAMN,fabric,58990,extra soft,4,grey,1
+SÖDERHAMN,fabric,58990,extra soft,4,beige,0
+SÖDERHAMN,fabric,58190,extra soft,4,natural colour,0
+SÖDERHAMN,fabric,53190,undetermined,4,red,0
+SÖDERHAMN,fabric,56590,undetermined,4,brown,0
+SÖDERHAMN,fabric,53790,extra soft,4,grey,0
+PÄRUP,fabric,20795,soft,2,red,1
+PÄRUP,fabric,16195,soft,2,green,1
+PÄRUP,fabric,18195,soft,2,grey,1
+PÄRUP,fabric,17795,undetermined,2,brown,0
+PÄRUP,fabric,20795,soft,2,red,1
+VIMLE,fabric,35795,soft,3,red,1
+VIMLE,fabric,33895,soft,3,grey,1
+VIMLE,fabric,32595,soft,3,black,1
+VIMLE,fabric,32595,soft,3,blue,1
+ESSEBODA,fabric,39395,extra soft,3,beige,0
+ESSEBODA,fabric,41395,extra soft,3,blue,0
+ESSEBODA,fabric,41395,extra soft,3,grey,0
+ESSEBODA,fabric,39395,extra soft,3,black,0
+ESSEBODA,fabric,39395,extra soft,3,brown,0
+ESSEBODA,fabric,41395,extra soft,3,brown,0
+ESSEBODA,fabric,41395,extra soft,3,brown,0
+ESSEBODA,fabric,39395,extra soft,3,brown,0
+SMEDSTORP,fabric,49295,medium firm,3,blue,0
+SMEDSTORP,fabric,49295,medium firm,3,red,0
+SMEDSTORP,fabric,49295,medium firm,3,brown,0
+SMEDSTORP,fabric,49295,medium firm,3,grey,0
+SMEDSTORP,fabric,49295,medium firm,3,black,0
+SMEDSTORP,fabric,49295,medium firm,3,grey,0
+SMEDSTORP,fabric,49295,medium firm,3,brown,0
+SMEDSTORP,fabric,49295,medium firm,3,red,0
+LANDSKRONA,fabric,48490,medium firm,4,red,0
+SMEDSTORP,fabric,50795,medium firm,4,blue,0
+SMEDSTORP,fabric,50795,medium firm,4,grey,0
+SMEDSTORP,fabric,50795,medium firm,4,brown,0
+SMEDSTORP,fabric,50795,medium firm,4,black,0
+SMEDSTORP,fabric,50795,medium firm,4,grey,0
+SMEDSTORP,fabric,50795,medium firm,4,red,0
+SMEDSTORP,fabric,50795,medium firm,4,red,0
+SMEDSTORP,fabric,50795,medium firm,4,brown,0
+ESSEBODA,fabric,33395,extra soft,2,black,0
+ESSEBODA,fabric,36395,extra soft,2,blue,0
+ESSEBODA,fabric,36395,extra soft,2,grey,0
+ESSEBODA,fabric,33395,extra soft,2,brown,0
+ESSEBODA,fabric,36395,extra soft,2,brown,0
+ESSEBODA,fabric,36395,extra soft,2,brown,0
+ESSEBODA,fabric,33395,extra soft,2,brown,0
+ESSEBODA,fabric,33395,extra soft,2,beige,0
+EKENÄSET,fabric,16995,firm,2,beige,0
+LANDSKRONA,fabric,70485,medium firm,5,red,0
+KLIPPAN,fabric,13595,undetermined,2,black,0
+KLIPPAN,fabric,12995,soft,2,yellow,1
+VINLIDEN,fabric,35895,extra soft,2,grey,1
+HYLTARP,fabric,33795,undetermined,2,brown,1
+HYLTARP,fabric,33795,undetermined,2,natural colour,0
+HYLTARP,fabric,30795,undetermined,2,white,0
+BACKSÄLEN,fabric,25495,medium firm,2,natural colour,1
+VISKAFORS,fabric,47495,extra soft,3,grey,0
+VINLIDEN,fabric,43195,extra soft,3,turquoise,1
+HYLTARP,fabric,30795,undetermined,2,blue,1
+HYLTARP,fabric,51995,undetermined,3,grey,0
+HYLTARP,fabric,51995,undetermined,3,natural colour,0
+HYLTARP,fabric,48995,undetermined,3,white,0
+HYLTARP,fabric,48995,undetermined,3,blue,0
+LANDSKRONA,fabric,26495,medium firm,3,red,0
+HYLTARP,fabric,51995,undetermined,3,brown,0
+LANDSKRONA,fabric,67985,undetermined,4,red,0
+GRÖNLID,fabric,56395,extra soft,3,white,1
+GRÖNLID,fabric,59495,extra soft,3,green,1
+GRÖNLID,fabric,58695,extra soft,3,red,1
+GRÖNLID,fabric,59495,extra soft,3,grey,1
+GRÖNLID,fabric,62495,extra soft,3,natural colour,1
+LANDSKRONA,fabric,23995,medium firm,2,red,0
+PÄRUP,fabric,30195,soft,3,red,1
+PÄRUP,fabric,24995,soft,3,green,1
+PÄRUP,fabric,27695,soft,3,grey,1
+PÄRUP,fabric,26995,undetermined,3,brown,0
+PÄRUP,fabric,40495,soft,4,red,1
+PÄRUP,fabric,34995,soft,4,green,1
+PÄRUP,fabric,38495,soft,4,grey,1
+PÄRUP,fabric,37995,undetermined,4,brown,0
+LINANÄS,fabric,23995,firm,3,beige,0
+JÄTTEBO,fabric,48390,soft,2,grey,0
+EKTORP,fabric,23495,undetermined,3,grey,0
+EKTORP,fabric,25995,undetermined,3,beige,0
+EKTORP,fabric,24995,undetermined,3,blue,0
+EKTORP,fabric,24995,undetermined,3,beige,0
+FRÖSLÖV,fabric,29995,soft,3,grey,0
+LINANÄS,fabric,18995,firm,3,grey,0
+LINANÄS,fabric,14495,firm,2,grey,0
+VISKAFORS,fabric,39495,extra soft,2,brown,0
+VISKAFORS,fabric,39495,extra soft,2,brown,0
+VIMLE,fabric,37795,soft,3,red,1
+VIMLE,fabric,35695,soft,3,beige,1
+VIMLE,fabric,36295,soft,3,grey,1
+VIMLE,fabric,34895,soft,3,black,1
+SMEDSTORP,fabric,27695,medium firm,2,blue,0
+SMEDSTORP,fabric,27695,medium firm,2,red,0
+SMEDSTORP,fabric,27695,medium firm,2,brown,0
+SMEDSTORP,fabric,29195,medium firm,3,blue,0
+SMEDSTORP,fabric,29195,medium firm,3,grey,0
+SMEDSTORP,fabric,29195,medium firm,3,red,0
+KIVIK,fabric,69190,medium firm,5,black,1
+KIVIK,fabric,89085,medium firm,6,black,1
+ÄPPLARYD,fabric,58990,medium firm,4,grey,0
+GRÖNLID,fabric,37495,extra soft,3,grey,1
+JÄTTEBO,fabric,124575,soft,6,grey,0
+VIMLE,fabric,58695,soft,4,red,1
+VIMLE,fabric,56195,soft,4,beige,1
+VIMLE,fabric,56795,soft,4,grey,1
+VIMLE,fabric,54795,soft,4,black,1
+VIMLE,fabric,33295,soft,3,beige,1
+ÄPPLARYD,fabric,36995,medium firm,3,grey,0
+LANDSKRONA,fabric,48490,medium firm,4,red,0
+EKENÄSET,fabric,18495,firm,2,grey,0
+LANDSKRONA,fabric,70485,medium firm,5,red,0
+KLIPPAN,fabric,12995,soft,2,grey,1
+EKENÄSET,fabric,23995,firm,3,grey,0
+LANDSKRONA,fabric,45990,medium firm,3,red,0
+KIVIK,fabric,106385,medium firm,7,black,0
+ÄPPLARYD,fabric,53990,medium firm,3,grey,0
+VISKAFORS,fabric,47495,extra soft,3,brown,0
+GRÖNLID,fabric,79795,extra soft,4,white,1
+GRÖNLID,fabric,83595,extra soft,4,green,1
+GRÖNLID,fabric,82795,extra soft,4,red,1
+GRÖNLID,fabric,83595,extra soft,4,grey,1
+GRÖNLID,fabric,87295,extra soft,4,natural colour,1
+LANDSKRONA,fabric,67985,undetermined,4,red,0
+ÄPPLARYD,fabric,31995,medium firm,2,grey,0
+LANDSKRONA,fabric,26495,medium firm,3,red,0
+GRÖNLID,fabric,59195,extra soft,4,white,1
+GRÖNLID,fabric,61595,extra soft,4,green,1
+GRÖNLID,fabric,60795,extra soft,4,red,1
+GRÖNLID,fabric,64495,extra soft,4,grey,1
+GRÖNLID,fabric,64495,extra soft,4,natural colour,1
+EKTORP,fabric,19995,undetermined,2,grey,0
+EKTORP,fabric,22495,undetermined,2,beige,0
+EKTORP,fabric,21495,undetermined,2,blue,0
+EKTORP,fabric,21495,undetermined,2,beige,0
+EKTORP,fabric,32995,undetermined,3,grey,0
+EKTORP,fabric,35495,undetermined,3,beige,0
+EKTORP,fabric,34595,undetermined,3,blue,0
+EKTORP,fabric,34595,undetermined,3,beige,0
+VIMLE,fabric,77585,soft,5,red,1
+VIMLE,fabric,73185,soft,5,beige,1
+VIMLE,fabric,70685,soft,5,black,1
+VIMLE,fabric,70685,soft,5,blue,1
+GRÖNLID,fabric,62495,extra soft,3,grey,1
+LANDSKRONA,fabric,23995,medium firm,2,red,0
+PÄRUP,fabric,30195,soft,3,red,1
+PÄRUP,fabric,40495,soft,4,red,1
+LINANÄS,fabric,18995,firm,3,grey,0
+EKTORP,fabric,23495,undetermined,3,grey,0
+FRÖSLÖV,fabric,29995,soft,3,beige,0
+LINANÄS,fabric,18995,firm,3,beige,0
+LINANÄS,fabric,14495,firm,2,beige,0
+VISKAFORS,fabric,39495,extra soft,2,brown,0
+VISKAFORS,fabric,39495,extra soft,2,grey,0
+VISKAFORS,fabric,39495,extra soft,2,beige,0
+VISKAFORS,fabric,39495,extra soft,2,black,0
+VIMLE,fabric,34895,soft,3,blue,1
+SMEDSTORP,fabric,27695,medium firm,2,grey,0
+SMEDSTORP,fabric,27695,medium firm,2,black,0
+SMEDSTORP,fabric,27695,medium firm,2,grey,0
+SMEDSTORP,fabric,27695,medium firm,2,red,0
+SMEDSTORP,fabric,27695,medium firm,2,brown,0
+SMEDSTORP,fabric,29195,medium firm,3,black,0
+SMEDSTORP,fabric,29195,medium firm,3,grey,0
+SMEDSTORP,fabric,29195,medium firm,3,red,0
+SMEDSTORP,fabric,29195,medium firm,3,brown,0
+SMEDSTORP,fabric,29195,medium firm,3,brown,0
+VINLIDEN,fabric,43195,extra soft,3,beige,0
+VINLIDEN,fabric,43195,extra soft,3,grey,0
+VINLIDEN,fabric,43195,extra soft,3,turquoise,0
+GRÖNLID,fabric,73485,extra soft,4,white,0
+GRÖNLID,fabric,77885,extra soft,4,red,0
+GRÖNLID,fabric,78685,extra soft,4,grey,0
+GRÖNLID,fabric,81685,extra soft,4,grey,0
+GRÖNLID,fabric,81685,extra soft,4,natural colour,0
+KIVIK,fabric,51290,medium firm,4,grey,0
+KIVIK,fabric,54390,medium firm,4,beige,0
+GRÖNLID,fabric,43185,extra soft,2,white,0
+GRÖNLID,fabric,44285,extra soft,2,green,0
+GRÖNLID,fabric,43485,extra soft,2,red,0
+GRÖNLID,fabric,44285,extra soft,2,grey,0
+GRÖNLID,fabric,46485,extra soft,2,natural colour,0
+GRÖNLID,fabric,71385,extra soft,3,green,0
+GRÖNLID,fabric,67585,extra soft,3,red,0
+GRÖNLID,fabric,68385,extra soft,3,grey,0
+GRÖNLID,fabric,71285,extra soft,3,natural colour,0
+VIMLE,fabric,49885,soft,2,red,0
+VIMLE,fabric,47385,soft,2,beige,0
+VIMLE,fabric,47985,soft,2,grey,0
+VIMLE,fabric,49885,soft,2,black,0
+GRÖNLID,fabric,56395,extra soft,3,white,0
+GRÖNLID,fabric,59495,extra soft,3,green,0
+GRÖNLID,fabric,58695,extra soft,3,red,0
+GRÖNLID,fabric,59495,extra soft,3,grey,0
+GRÖNLID,fabric,62495,extra soft,3,grey,0
+GRÖNLID,fabric,62495,extra soft,3,natural colour,0
+LANDSKRONA,fabric,23995,medium firm,2,red,0
+LANDSKRONA,fabric,23995,medium firm,2,red,0
+PÄRUP,fabric,30195,soft,3,red,0
+PÄRUP,fabric,30195,soft,3,red,0
+PÄRUP,fabric,27695,soft,3,grey,0
+PÄRUP,fabric,40495,soft,4,red,0
+PÄRUP,fabric,34995,soft,4,green,0
+PÄRUP,fabric,38495,soft,4,grey,0
+PÄRUP,fabric,40495,soft,4,red,0
+VIMLE,fabric,30595,soft,2,red,0
+VIMLE,fabric,29095,soft,2,grey,0
+VIMLE,fabric,27595,soft,2,black,0
+VIMLE,fabric,27995,soft,2,blue,0
+VIMLE,fabric,30595,soft,2,red,0
+VIMLE,fabric,37795,soft,3,red,0
+VIMLE,fabric,35695,soft,3,beige,0
+VIMLE,fabric,36295,soft,3,grey,0
+VIMLE,fabric,34895,soft,3,blue,0
+VIMLE,fabric,34895,soft,3,black,0
+EKTORP,fabric,19995,undetermined,2,grey,0
+KIVIK,fabric,61990,medium firm,5,beige,0
+KIVIK,fabric,71690,medium firm,5,beige,0
+KIVIK,fabric,65490,medium firm,5,grey,0
+KIVIK,fabric,79985,medium firm,6,beige,0
+KIVIK,fabric,91585,medium firm,6,beige,0
+KIVIK,fabric,83785,medium firm,6,grey,0
+KIVIK,fabric,48290,medium firm,3,grey,0
+KIVIK,fabric,45990,medium firm,3,beige,0
+KIVIK,fabric,49390,medium firm,3,black,0
+KIVIK,fabric,51390,medium firm,3,beige,0
+ÄPPLARYD,fabric,58990,medium firm,4,grey,0
+KIVIK,fabric,62490,medium firm,4,grey,0
+KIVIK,fabric,66690,medium firm,4,black,0
+KIVIK,fabric,68690,medium firm,4,beige,0
+KIVIK,fabric,58990,medium firm,4,beige,0
+VIMLE,fabric,31595,soft,2,red,0
+VIMLE,fabric,29095,soft,2,beige,0
+VIMLE,fabric,29695,soft,2,grey,0
+VIMLE,fabric,28595,soft,2,blue,0
+VIMLE,fabric,28595,soft,2,black,0
+GRÖNLID,fabric,35795,extra soft,3,white,0
+GRÖNLID,fabric,37495,extra soft,3,green,0
+GRÖNLID,fabric,36695,extra soft,3,red,0
+GRÖNLID,fabric,37495,extra soft,3,grey,0
+GRÖNLID,fabric,39695,extra soft,3,natural colour,0
+GRÖNLID,fabric,39695,extra soft,3,grey,0
+SÖDERHAMN,fabric,33695,extra soft,3,grey,0
+SÖDERHAMN,fabric,32895,extra soft,3,natural colour,0
+SÖDERHAMN,fabric,32595,extra soft,3,brown,0
+VIMLE,fabric,58695,soft,4,red,0
+VIMLE,fabric,56195,soft,4,beige,0
+VIMLE,fabric,54795,soft,4,black,0
+VIMLE,fabric,54795,soft,4,blue,0
+VIMLE,fabric,56795,soft,4,grey,0
+VIMLE,fabric,34795,soft,3,red,0
+VIMLE,fabric,33295,soft,3,beige,0
+VIMLE,fabric,33295,soft,3,grey,0
+VIMLE,fabric,31595,soft,3,black,0
+VIMLE,fabric,31995,soft,3,blue,0
+VIMLE,fabric,34795,soft,3,red,0
+SÖDERHAMN,fabric,69885,extra soft,4,grey,0
+SÖDERHAMN,fabric,67985,extra soft,4,brown,0
+SÖDERHAMN,fabric,70585,extra soft,4,beige,0
+SÖDERHAMN,fabric,58990,extra soft,4,grey,0
+PÄRUP,fabric,20795,soft,2,red,0
+PÄRUP,fabric,16195,soft,2,green,0
+PÄRUP,fabric,18195,soft,2,grey,0
+PÄRUP,fabric,20795,soft,2,red,0
+VIMLE,fabric,35795,soft,3,red,0
+VIMLE,fabric,33295,soft,3,beige,0
+VIMLE,fabric,33895,soft,3,grey,0
+VIMLE,fabric,32595,soft,3,blue,0
+VIMLE,fabric,32595,soft,3,black,0
+KIVIK,fabric,29995,medium firm,2,grey,0
+KIVIK,fabric,29495,medium firm,2,black,0
+KIVIK,fabric,31495,medium firm,2,beige,0
+KIVIK,fabric,27995,medium firm,2,beige,0
+ÄPPLARYD,fabric,36995,medium firm,3,grey,0
+VIMLE,fabric,113575,soft,5,red,0
+VIMLE,fabric,113575,soft,5,red,0
+VIMLE,fabric,110175,soft,5,beige,0
+VIMLE,fabric,113175,soft,5,grey,0
+VIMLE,fabric,109175,soft,5,black,0
+VIMLE,fabric,109575,soft,5,blue,0
+LANDSKRONA,fabric,48490,medium firm,4,red,0
+LANDSKRONA,fabric,48490,medium firm,4,red,0
+VIMLE,fabric,95285,soft,5,red,0
+VIMLE,fabric,95285,soft,5,red,0
+VIMLE,fabric,91885,soft,5,beige,0
+VIMLE,fabric,91885,soft,5,grey,0
+VIMLE,fabric,88285,soft,5,blue,0
+VIMLE,fabric,87885,soft,5,black,0
+EKTORP,fabric,32995,undetermined,3,grey,0
+LANDSKRONA,fabric,70485,medium firm,5,red,0
+KIVIK,fabric,30995,medium firm,3,beige,0
+KIVIK,fabric,34495,medium firm,3,beige,0
+LANDSKRONA,fabric,70485,medium firm,5,red,0
+KIVIK,fabric,80785,medium firm,5,grey,0
+KIVIK,fabric,86585,medium firm,5,black,0
+KIVIK,fabric,88585,medium firm,5,beige,0
+KIVIK,fabric,76985,medium firm,5,beige,0
+KLIPPAN,fabric,12995,soft,2,grey,0
+KLIPPAN,fabric,12995,soft,2,yellow,0
+GRÖNLID,fabric,76285,extra soft,5,white,0
+GRÖNLID,fabric,80785,extra soft,5,green,0
+GRÖNLID,fabric,79985,extra soft,5,red,0
+GRÖNLID,fabric,80785,extra soft,5,grey,0
+GRÖNLID,fabric,83685,extra soft,5,natural colour,0
+GRÖNLID,fabric,83685,extra soft,5,grey,0
+VIMLE,fabric,52495,soft,3,blue,0
+VIMLE,fabric,55495,soft,3,red,0
+VIMLE,fabric,55495,soft,3,red,0
+VIMLE,fabric,54395,soft,3,beige,0
+VIMLE,fabric,54395,soft,3,grey,0
+VIMLE,fabric,73185,soft,5,beige,0
+VIMLE,fabric,73785,soft,5,grey,0
+VIMLE,fabric,70685,soft,5,black,0
+VIMLE,fabric,70685,soft,5,blue,0
+VIMLE,fabric,52095,soft,3,black,0
+VIMLE,fabric,77585,soft,5,red,0
+GRÖNLID,fabric,96885,extra soft,5,white,0
+GRÖNLID,fabric,101985,extra soft,5,red,0
+GRÖNLID,fabric,102785,extra soft,5,grey,0
+GRÖNLID,fabric,106485,extra soft,5,grey,0
+GRÖNLID,fabric,106485,extra soft,5,natural colour,0
+GRÖNLID,fabric,102785,extra soft,5,green,0
+SÖDERHAMN,fabric,44990,extra soft,2,grey,0
+SÖDERHAMN,fabric,42990,extra soft,2,brown,0
